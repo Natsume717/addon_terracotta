@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "pack_format": 71,
+    "description": {
+      "text": ". ",
+      "extra": [
+        {
+          "text": "Created By ",
+          "extra": [
+            {
+              "text": "LaspberyAqua",
+              "color": "dark_aqua"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

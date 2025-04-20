@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand,tag=lzaq.addon_block] at @s unless block ~ ~ ~ barrier run kill @s

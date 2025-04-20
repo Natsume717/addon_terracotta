@@ -1,0 +1,82 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "block/purple_terracotta"
+    },
+    "cases": [
+      {
+        "when": "straight_top",
+        "model": {
+          "type": "model",
+          "model": "block/purple_terracotta/stair/top/straight"
+        }
+      },
+      {
+        "when": "inner_left_top",
+        "model": {
+          "type": "model",
+          "model": "block/purple_terracotta/stair/top/inner_left"
+        }
+      },
+      {
+        "when": "inner_right_top",
+        "model": {
+          "type": "model",
+          "model": "block/purple_terracotta/stair/top/inner_right"
+        }
+      },
+      {
+        "when": "outer_left_top",
+        "model": {
+          "type": "model",
+          "model": "block/purple_terracotta/stair/top/outer_left"
+        }
+      },
+      {
+        "when": "outer_right_top",
+        "model": {
+          "type": "model",
+          "model": "block/purple_terracotta/stair/top/outer_right"
+        }
+      },
+      {
+        "when": "straight_bottom",
+        "model": {
+          "type": "model",
+          "model": "block/purple_terracotta/stair/bottom/straight"
+        }
+      },
+      {
+        "when": "inner_left_bottom",
+        "model": {
+          "type": "model",
+          "model": "block/purple_terracotta/stair/bottom/inner_left"
+        }
+      },
+      {
+        "when": "inner_right_bottom",
+        "model": {
+          "type": "model",
+          "model": "block/purple_terracotta/stair/bottom/inner_right"
+        }
+      },
+      {
+        "when": "outer_left_bottom",
+        "model": {
+          "type": "model",
+          "model": "block/purple_terracotta/stair/bottom/outer_left"
+        }
+      },
+      {
+        "when": "outer_right_bottom",
+        "model": {
+          "type": "model",
+          "model": "block/purple_terracotta/stair/bottom/outer_right"
+        }
+      }
+    ]
+  }
+}
