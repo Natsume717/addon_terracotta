@@ -2,6 +2,10 @@
 テラコッタの階段やハーフブロックを追加するデータパックです。
 
 This data pack adds terracotta stairs and slabs.
+
+## 対応バージョン《Supported Version》
+Minecraft Java Edition 1.21.5
+
 # コマンド《Commands》
 
 各色の階段の入手/Giving stairs of each color  
