@@ -76,6 +76,20 @@
 			  "type": "model",
 			  "model": "block/terracotta/stair/bottom/outer_right"
 			}
+		},
+		{
+			"when": "top",
+			"model": {
+			  "type": "model",
+			  "model": "block/terracotta/slab/top"
+			}
+		},
+		{
+			"when": "bottom",
+			"model": {
+			  "type": "model",
+			  "model": "block/terracotta/slab/bottom"
+			}
 		}
 	  ]
 	}

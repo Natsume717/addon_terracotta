@@ -1196,6 +1196,244 @@
 				  "type": "model",
 				  "model": "block/terracotta/stair/bottom/outer_right"
 				}
+			},
+			{
+				"when": "terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/terracotta/slab/top"
+				}
+			},
+			{
+				"when": "terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "black_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/black_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "black_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/black_terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "blue_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/blue_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "blue_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/blue_terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "brown_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/brown_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "brown_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/brown_terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "cyan_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/cyan_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "cyan_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/cyan_terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "gray_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/gray_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "gray_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/gray_terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "green_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/green_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "green_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/green_terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "light_blue_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/light_blue_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "light_blue_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/light_blue_terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "light_gray_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/light_gray_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "light_gray_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/light_gray_terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "lime_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/lime_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "lime_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/lime_terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "magenta_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/magenta_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "magenta_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/magenta_terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "orange_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/orange_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "orange_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/orange_terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "pink_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/pink_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "pink_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/pink_terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "purple_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/purple_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "purple_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/purple_terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "red_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/red_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "red_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/red_terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "white_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/white_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "white_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/white_terracotta/slab/bottom"
+				}
+			},
+			{
+				"when": "yellow_terracotta.slab.top",
+				"model": {
+				  "type": "model",
+				  "model": "block/yellow_terracotta/slab/top"
+				}
+			},
+			{
+				"when": "yellow_terracotta.slab.bottom",
+				"model": {
+				  "type": "model",
+				  "model": "block/yellow_terracotta/slab/bottom"
+				}
 			}
 	  ]
 	}
