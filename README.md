@@ -1,9 +1,6 @@
 # 概要《Overview》
 テラコッタの階段やハーフブロックを追加するデータパックです。
 
-※ハーフブロックは実装待ち
-
-
 This data pack adds terracotta stairs and slabs.
 # コマンド《Commands》
 
@@ -25,6 +22,16 @@ This data pack adds terracotta stairs and slabs.
 通常のterracottaを入手する場合/Giving upside-down stairs of normal terracotta  
 ``` {.copy}
 /function system:main/give/terracotta/bottom/
+```
+
+上付きハーフブロックの入手/Giving all slabs set to type=top
+``` {.copy}
+/function system:main/give/terracotta/top/slab
+```
+
+下付きタイプのハーフブロックの入手/Giving all slabs set to type=bottom
+``` {.copy}
+/function system:main/give/terracotta/bottom/slab
 ```
 
 ## colorID
