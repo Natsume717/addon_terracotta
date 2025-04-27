@@ -6,6 +6,19 @@ This data pack adds terracotta stairs and slabs.
 ## 対応バージョン《Supported Version》
 Minecraft Java Edition 1.21.5
 
+## スクリーンショット《Screenshots》
+
+<p align="center">
+  <img src="/images/stair01.png" width="30%">
+  <img src="/images/stair02.png" width="30%">
+  <img src="/images/shape.png" width="30%">
+</p>
+<p align="center">
+  <img src="/images/slab01.png" width="30%">
+  <img src="/images/slab02.png" width="30%">
+  <img src="/images/usage01.png" width="30%">
+</p>
+
 ## コマンド《Commands》
 
 各色の階段の入手/Giving stairs of each color  
